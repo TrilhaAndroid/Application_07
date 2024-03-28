@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logar</string>
+    <string name="login">Logar</string>
+    <string name="subtitle">Por favor, forceça sua informações</string>
+    <string name="email">Digite seu e-mail</string>
+    <string name="email_place_holder">exemplo@dominio.com.br</string>
+    <string name="password">Digite sua senha</string>
+    <string name="enter">ENVIAR</string>
+</resources>
